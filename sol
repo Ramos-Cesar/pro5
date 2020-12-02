@@ -1,0 +1,3 @@
+helio
+gravedad
+fusion nuclear
